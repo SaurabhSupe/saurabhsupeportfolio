@@ -35,14 +35,14 @@ $(document).ready(function(){
 
     // typing text animation script
     var typed = new Typed(".typing", {
-        strings: ["Associate Software Engineer" ],
+        strings: ["Software Engineer I " ],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
     });
 
     var typed = new Typed(".typing-2", {
-        strings: ["Associate Software Engineer At Quorum Software,Pune"],
+        strings: ["Software Engineer I At Quorum Software, EON IT Park, Kharadi, Pune"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
